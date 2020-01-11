@@ -78,11 +78,11 @@ Sometimes, you know the joint probability of events and need to calculate the ma
 Expressing this mathematically, we have:
 
 {::options parse_block_html="false" /}
-<div>
+
 $$
 \forall x \in \text{x}, P(\text{x}=x) = \sum_{y} P(\text{x}=x, \text{y}=y)
 $$
-</div>
+
 {::options parse_block_html="true" /}
 
 We'll go into the details of this equation.
